@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Weather</string>
+
+    <string name="title_main">Main</string>
+    <string name="title_first_stab">First stub</string>
+    <string name="title_second_stab">Second stub</string>
+    <string name="title_third_stab">First stub</string>
+    <string name="title_fourth_stab">First stub</string>
+
+    <string name="cloudy">Cloudy: %1$d %%</string>
+    <string name="humidity">Humidity: %1$d %%</string>
+    <string name="pressure">Pressure: %1$d mm/Hg</string>
+    <string name="min_temperature">Min temperature: %1$d °C </string>
+    <string name="max_temperature">Max temperature: %1$d °C</string>
+    <string name="wind_speed">Wind speed: %1$d m/s</string>
+    <string name="location_error">Location Error</string>
 </resources>
